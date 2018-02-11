@@ -1,4 +1,10 @@
-# DannyBot
+# DiscordBot
+Forked from Danny N. to work independently in upgrading Discord API from 2.7.9 to 2.9.3
+
+
+######################################################################
+
+DannyBot
 A Discord Bot Created and Designed by Danny N. in Collaboration with Tiffany T.
 
 Prefix: .
